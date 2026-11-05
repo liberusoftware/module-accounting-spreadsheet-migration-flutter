@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-spreadsheet-migration-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-spreadsheet-migration",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_spreadsheet_migration_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/spreadsheet-migration.md",
+  "presentationPlan": "projects/accounting/flutter/spreadsheet-migration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
